@@ -6,7 +6,7 @@ A simple Python-based vulnerability scanner that uses Nmap to detect open ports 
 - Accepts a domain or IP as input
 - Runs an `nmap -sV` scan
 - Parses output to extract service version info
-- Flags services to check manually on CVE websites
+- Flags services to check manually on CVE websites 
 
 ## How to Use
 1. Install `nmap`
